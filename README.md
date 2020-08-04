@@ -15,11 +15,20 @@ developed specifically for certain application domains, while others are more ge
 #### Language Python 3.7 and modules:
 
 scikit-learn                       0.22.1
+
 Keras                              2.2.4
+
 tensorflow                         1.14.0
+
 pandas                             1.0.1  
+
 numpy                              1.18.1
+
 matplotlib                         3.1.3
+
 seaborn                            0.10.0
+
 scipy                              1.4.1
+
 fuzzy-c-means                      0.0.6
+
