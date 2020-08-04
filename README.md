@@ -2,6 +2,8 @@
 
 Trabalho de Conclusão de Curso apresentado à Coordenação do Curso de Engenharia Elétrica da Universidade Federal da Paraíba como exigência para a obtenção do título de Bacharel em Engenharia Elétrica.
 
+This work was done by Ricardo Wagner with supervison of Juan Moises Mauricio Villanueva
+
 #### ABSTRACT
 
 The detection of outliers is an important problem that has been researched in several research areas and application domains. Many outlier detection techniques have been
